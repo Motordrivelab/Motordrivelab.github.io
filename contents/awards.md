@@ -4,3 +4,10 @@
 * Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
 * First-Prize Corporate Scholarship (CUMT), 2020.
 * First-Prize Undergraduate Academic Scholarship (CUMT), 2019QQQQ.
+*     <!-- Photo -->
+*     <div class="container px-5">
+*         <div id="avatar">
+*             <img class="shadow" src="static/assets/img/photo.png">
+*         </div>
+*     </div>
+*     <!-- Photo -->
